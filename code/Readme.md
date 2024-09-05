@@ -32,17 +32,23 @@ The project leverages the following technologies:
 Follow these steps to run the project locally
 
 1. **Download From Drive**
-   Drive link : https://drive.google.com/drive/folders/1c0Cku6gPVaLMlmCuhlTv3g5zBno_-JT-?usp=drive_link
+   git clone https://github.com/Ayushsingla1/SIH_INTERNAL_ROUND_1_ALGOXEN_.git
+   Drive Link For ML model : https://drive.google.com/drive/folders/1Z1uCxIftwuhHANUIELTqAjRyvFvDOf49?usp=sharing
 
-2. **Set Up and Run the Flask Backend**
+2. **Set Up Roberta model**
    ```bash
-   cd AlgoXen2
-   pip install -r requirements.txt
-   python app.py
+   Download Roberta_women_safety_final folder from Google Drive
+   In the backend folder of the cloned repositry paste the Roberta_women_safety_final folder
    ```
 3. **Set Up and Run the React Frontend**
    ```bash
-   cd AlgoXen
+   cd Frontend
    npm i
    npm run start
+   ```
+4. **Set Up and Run the Backend**
+   ```bash
+   cd Backend
+   pip install -r requirements.txt
+   python app.py
    ```
