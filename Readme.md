@@ -23,5 +23,5 @@ This README provides an overview of the project, including team details, relevan
 - **Final SIH Presentation:** [Final SIH Presentation](./files/SIH_PPT_ALGOXEN.pdf)
 - **Video Demonstration:** [Watch Video](https://youtu.be/Be2v6Jlzfx8)
 - **Live Deployment:** [No Deployment]
-- **Source Code:** [Drive Link](https://drive.google.com/drive/folders/1c0Cku6gPVaLMlmCuhlTv3g5zBno_-JT-?usp=drive_link)
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+- **Source Code:** [GitHub Link](https://github.com/Ayushsingla1/SIH_INTERNAL_ROUND_1_ALGOXEN_)
+- **Additional Resources:** [Drive Link](https://drive.google.com/drive/folders/1Z1uCxIftwuhHANUIELTqAjRyvFvDOf49?usp=sharing)
